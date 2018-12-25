@@ -28,6 +28,10 @@ public class Variables{
         System.out.println(charVariables);
 
 
+
+
+
+
     }
 
 }
